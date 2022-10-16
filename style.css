@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: cornflowerblue;
+    scroll-behavior: smooth;
+}
+
+h1{
+    text-align: center;
+    color: gold;
+}
+img{
+    width: 250px;
+    height: 250px;
+    border: gold;
+    border: 5px;
+}
